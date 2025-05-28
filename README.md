@@ -1,4 +1,4 @@
-# Data-Scientist-Certification
+# Data-Scientist-Certification - DS601P
 🍽️ Predicting High-Traffic Recipes for Homepage Optimization
 
 📌 Project Overview
